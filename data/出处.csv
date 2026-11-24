@@ -1,0 +1,4 @@
+﻿source_id,work_id,edition,duplicate_of
+S1,W1,刻本甲,
+S2,W2,抄本乙,
+S3,W3,汇编丙,S2
